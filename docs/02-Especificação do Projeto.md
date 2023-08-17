@@ -159,7 +159,7 @@ Quanto maior for o controle do gestor dos elementos que compõe um projeto, maio
 
 Todo objetivo é constituído por uma meta que se pretende alcançar, e para tanto, é de extrema importância que se definia quando este evento deve ocorrer, sem que haja um deadline para o alcance de uma meta, esta nunca será de fato alcançado, pois, nunca será priorizada em face do seu limite de tempo para finalização.
 
-![image](https://github.com/thaisoliveira1356480/template/assets/110863413/253a65de-2b40-4a37-8e80-5ff166d6cfe1)
+https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/455/views/1
 
 #### As atividades e sua execução, serão acompanhadas através de um kanban contendo todoas as tarefas e seus prazos de início e finalização para uma melhor rastreabilidade da execução
 https://github.com/thaisoliveira1356480/template/projects?query=is%3Aopen
