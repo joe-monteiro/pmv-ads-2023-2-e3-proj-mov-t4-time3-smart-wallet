@@ -145,29 +145,53 @@ A matriz deve contemplar todos os elementos relevantes que fazem parte do sistem
 > - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
 > - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
 
+<hr>
 
 # Gerenciamento de Projeto
 
-De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
+A gestão assertiva de um projeto, é parte fundamental para que este alcance resultados positivos ao seu final. Gerenciar um projeto é deter de controle de áreas que são cruciais para estes resultados, tais como: escopo, custos, tempo, qualidade e custos, pois, qualquer alteração em uma dessas áreas, dificilmente não impactará as demais.
+
+Quanto maior for o controle do gestor dos elementos que compõe um projeto, maiores serão suas chances de alcançar os objetivos propostos, vista que, o controle trará respostas mais imediatas aos riscos identificados reduzindo a incidência de problemas. 
+
+
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+Todo objetivo é constituído por uma meta que se pretende alcançar, e para tanto, é de extrema importância que se definia quando este evento deve ocorrer, sem que haja um deadline para o alcance de uma meta, esta nunca será de fato alcançado, pois, nunca será priorizada em face do seu limite de tempo para finalização.
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
+![image](https://github.com/thaisoliveira1356480/template/assets/110863413/253a65de-2b40-4a37-8e80-5ff166d6cfe1)
 
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
+#### As atividades e sua execução, serão acompanhadas através de um kanban contendo todoas as tarefas e seus prazos de início e finalização para uma melhor rastreabilidade da execução
+https://github.com/thaisoliveira1356480/template/projects?query=is%3Aopen
 
-![Gráfico de Gantt](img/02-grafico-gantt.png)
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+Projetos entregam resultados, resultados são providos por pessoas, essa relação é algo imutável, pois, é impossível a não incidência de stakeholders no projeto, seja eles diretos ou indiretos. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
+Se é necessário ter um assertivo controle no gerenciamento de um projeto para que se obtenha bons resultados ao seu final, o que podemos dizer de uma boa gestão da equipe? Uma equipe de sucesso é composta por profissionais que estão direcionados a obtenção do mesmo objetivo, trabalham focados, envolvendo-se o máximo possível para que ao final, o projeto logre o êxito planejado.
+
+### Descrição da Equipe: 
+
+| # | Função | Nome | 
+|-------|---------------------|----|
+| 1 | Desenvolvedor Pleno | Leonardo Buck |
+| 2 | Desenvolvedor Pleno | Leonardo Lima |
+| 3 | Desenvolvedor Sênior | Joe Monteiro de Sousa |
+| 4 | Analista de Teste | Thiago Gomes da Silva |
+| 5 | Gerente de Projeto | Thaís Cristine Santana Oliveira
+
+### Papéis e responsabilidades
+
+ - <b>Desenvolvedores:</b> executar o escopo elicitado e alvo da solução do projeto. Caberá aos desenvolvedores, as tarefas de criar e corrigir todo o código necessário para que a aplicação proposta funcione corretamente na utilização dos usuários
+
+ - <b>Analista de Teste:</b> realizar todos os testes necessários que atestem a qualidade do código desenvolvido, identificar bugs que devem ser corrigidos e respaldar a solução de possíveis problemas pós a sua entrega
+
+ - <b>Gerente do Projeto:</b> ser o facilitador da equipe, de modo a que todos os impedimentos, problemas e riscos, possam ser mitigados não impactando a qualidade dos entregáveis conforme os requisitos elicitados. 
+
+
 
 ## Gestão de Orçamento
+Projeto tem estimativa de ser realizado durante 5 meses, onde abaixo, temos o descritivo do custo planejado para a execução do projeto contemplando todos os itens necessários para este desenvolvimento.
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
-
-![Orçamento](img/02-orcamento.png)
+![image](https://github.com/thaisoliveira1356480/template/assets/110863413/2a2d9fcc-ed57-44c5-95d2-6599a868d75e)
